@@ -23,7 +23,6 @@ vision, OCR/document automation, and analytics, turning messy real-world inputs 
 
 | Project | What it does | Built with |
 |---------|--------------|------------|
-| [📝 Resume-Optimizer](https://github.com/divG19/resume_optimizer) 🚧 | Agentic pipeline that turns a structured profile + target job description into a tailored, ATS-scored PDF resume | LangGraph · Claude · LaTeX |
 | [📚 StudyBuddy](https://github.com/divG19/course-ai) 🚧 | AI study-buddy chatbot with persistent conversation memory, grown from a CLI script into a FastAPI + SQLite service | FastAPI · SQLAlchemy · Claude |
 | [🤖 CrewAI-Market-Research-Agent](https://github.com/divG19/CrewAI-Market-Research-Agent) | Multi-agent AI crew (researcher · analyst · writer) that produces an executive market report for any industry, with live web search | CrewAI · OpenAI · Serper · Streamlit |
 | [🖼️ Image-Caption-Generator](https://github.com/divG19/Image-Caption-Generator) | Image captioning on MS-COCO; pushed BLEU-4 from 34.6 to 37.3 by swapping in Faster R-CNN features | Xception CNN · LSTM · TensorFlow/Keras |
